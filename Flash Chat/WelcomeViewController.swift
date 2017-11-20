@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import Firebase
 
 
 class WelcomeViewController: UIViewController {
@@ -21,5 +21,5 @@ class WelcomeViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-    
+        
 }
